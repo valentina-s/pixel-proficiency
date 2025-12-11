@@ -1,4 +1,4 @@
-title: "Course Webpage 101: Introduction to GitHub Pages for Course Websites"
+title: "Pixel Proficiency: Practical Deep Learning for Images"
 author:
   #name: GitHub User
   #email: your-email@domain.com
@@ -50,9 +50,6 @@ header_pages:
  - index.md
  - logistics.md
  - schedule.md
- - homework.md
- - office-hours.md
- - resources.md
 
 # Build settings
 theme: minima
