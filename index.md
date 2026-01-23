@@ -3,9 +3,6 @@ layout: default
 title: Home
 permalink: /
 ---
-
-![](assets/PixelProficiency_deep_learning.png)
-
 # Pixel Proficiency: Practical Deep Learning for Images
 
 
