@@ -11,10 +11,15 @@ permalink: /
 **Session Dates: Oct 15 - Nov 19, Wednesdays from 12:30-1:50 p.m.**
 
 Oct 15: Intro to neural networks for image classification
+
 Oct 22: Model selection and evaluation
+
 Oct 29: Model tuning and transfer learning
+
 Nov 5: Self-supervised learning through autoencoders
+
 Nov 12: Segmentation and object detection
+
 Nov 19: Addressing common pitfalls
 
 
