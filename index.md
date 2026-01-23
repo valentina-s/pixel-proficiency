@@ -6,7 +6,7 @@ permalink: /
 
 # Welcome to the Pixel Proficiency Training Series! 
 
-**Instructors:** [Valentina Staneva](valentina-s.github.io), [Joseph Hellerstein](https://sites.google.com/uw.edu/joseph-hellerstein/home), [Nicoleta Cristea](https://www.ce.washington.edu/facultyfinder/nicoleta-cristea)
+**Instructors:** [Valentina Staneva](https://valentina-s.github.io/), [Joseph Hellerstein](https://sites.google.com/uw.edu/joseph-hellerstein/home), [Nicoleta Cristea](https://www.ce.washington.edu/facultyfinder/nicoleta-cristea)
 
 **Session Dates: Oct 15 - Nov 19, Wednesdays from 12:30-1:50 p.m.**
 
